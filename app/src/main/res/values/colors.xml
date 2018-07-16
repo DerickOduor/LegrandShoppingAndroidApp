@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">@android:color/transparent</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pink">#FF1744</color>
+
+    <!--
+    pink1: #FF1744
+pink2: #E91E63
+pink3: #F50057
+blue1: #2196F3
+    -->
+</resources>
